@@ -15,7 +15,7 @@ render: (output) ->
       <li class="button" id="spotify"></li>
       <li class="button" id="dolphin"></li>
       <li class="button" id="terminal"></li><br>
-      <li class="button" id="vivaldi"></li>
+      <li class="button"></li>
       <li class="button"></li>
       <li class="button"></li>
       <li class="button"></li>
