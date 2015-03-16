@@ -1,9 +1,11 @@
 # Übersicht-grid-launcher
-A simple application launcher made for Übersicht.
+A simple, colorful application launcher made for Übersicht.
 
-![Screenshot](/Grid.png)
+![Screenshot](/screenshot.png)
 
 #Installation
 Add the widget to Übersicht's widget folder.
 
-Customize styles and links to match your preferences in the index.coffee
+Customize styles and links to match your preferences in the index.coffee.
+
+Remember to enable interactions with the widget through Übersicht's preferences.
