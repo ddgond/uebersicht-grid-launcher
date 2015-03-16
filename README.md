@@ -1,5 +1,5 @@
 # Übersicht-grid-launcher
-A simple application launcher made for Übersicht.
+A simple, colorful application launcher made for Übersicht.
 
 ![Screenshot](/screenshot.png)
 
