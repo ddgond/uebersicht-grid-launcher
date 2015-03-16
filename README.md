@@ -1,7 +1,7 @@
 # Übersicht-grid-launcher
 A simple application launcher made for Übersicht.
 
-![Screenshot](/Grid.png)
+![Screenshot](/screenshot.png)
 
 #Installation
 Add the widget to Übersicht's widget folder.
