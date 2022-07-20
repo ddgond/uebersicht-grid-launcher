@@ -40,7 +40,7 @@ render: (output) ->
   """
 
 afterRender: (domEl) ->
-  $(domEl).off( 'click')
+  $(domEl).off 'click'
   $(domEl).on 'click', '#chrome', => @run "open '/Applications/Google Chrome.app'"
   $(domEl).on 'click', '#sketch', => @run "open /Applications/Sketch.app"
   $(domEl).on 'click', '#spotify', => @run "open /Applications/Spotify.app"
